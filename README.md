@@ -19,10 +19,7 @@ JSON-RPC 2.0 over stdio by hand, so there's **no `npm install`**. Needs **Node 1
 
 Claude Desktop calling the predictor's tools live:
 
-<video src="https://github.com/balajijp8-boop/MCP_server_using_Claude/raw/main/MCP_demo.MP4" controls width="100%"></video>
-
-> ▶ If the player above doesn't load in your browser,
-> [**watch / download `MCP_demo.MP4`**](MCP_demo.MP4) directly.
+https://github.com/user-attachments/assets/073303da-0e80-43b9-abdc-4901a11f7ea6
 
 ---
 
